@@ -1,5 +1,5 @@
 <template>
-  <div>home</div>
+  <div>Git使我疲惫</div>
 </template>
 
 <script>
