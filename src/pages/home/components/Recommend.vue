@@ -2,7 +2,7 @@
   <div>
     <div class="recommend-title">热销推荐</div>
     <ul>
-      <li class="item border-bottom" v-for="item of recommendList" :key="item.id">
+      <li class="item border-bottom" v-for="item of list" :key="item.id">
           <img class="item-img" :src="item.imgUrl"/>
           <div class="item-info">
             <p class="item-title">{{item.title}}</p>
@@ -18,28 +18,8 @@
 <script>
 export default {
   name: 'HomeRecommend',
-  data () {
-    return {
-      recommendList: [{
-        id: '001',
-        imgUrl: 'http://img1.qunarzz.com/sight/p0/1603/b1/b1da46b5326eb99e90.water.jpg_200x200_2f0a2f3f.jpg',
-        title: '武汉欢乐谷',
-        desc: '来试试中国最高的弹射过山车吧~'
-      },
-      {
-        id: '002',
-        imgUrl: 'http://img1.qunarzz.com/sight/p0/1501/10/1012e4a2c398409c.water.jpg_200x200_366b12f8.jpg',
-        title: '云雾山',
-        desc: '来看漂亮的杜鹃花~'
-      },
-      {
-        id: '003',
-        imgUrl: 'http://img1.qunarzz.com/sight/p0/201405/27/11a29c646d897af77648bc3d98949107.jpg_200x200_0b6014b8.jpg',
-        title: '武汉九峰山森林动物园',
-        desc: '与动物亲近，尽享自然风光秀色'
-      }
-      ]
-    }
+  props: {
+    list: Array
   }
 }
 </script>

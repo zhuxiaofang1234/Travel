@@ -1,0 +1,107 @@
+{
+  "ret":true,
+  "data":{
+    "city":"北京",
+    "swiperList": [
+      {
+      "id": "0001",
+      "imaUrl": "http://mp-piao-admincp.qunarzz.com/mp_piao_admin_mp_piao_admin/admin/20198/e09bcf3ce7fda2b091b8cc8de80dceca.jpg_750x200_c144ffc3.jpg"
+      },
+      {
+      "id": "0002",
+      "imaUrl": "http://mp-piao-admincp.qunarzz.com/mp_piao_admin_mp_piao_admin/admin/201910/78b240572657a6da67e662540c846dd6.jpg_750x200_b75c8be9.jpg"
+      },
+      {
+      "id": "0003",
+      "imaUrl": "http://mp-piao-admincp.qunarzz.com/mp_piao_admin_mp_piao_admin/admin/20196/8254351bdfba7389f5a4de4416b9d4f4.png_750x200_843e98ad.png"
+      }
+    ],
+    "iconList": [
+      {
+        "id": "0001",
+        "imgUrl": "http://img1.qunarzz.com/piao/fusion/1803/95/f3dd6c383aeb3b02.png",
+        "desc": "景点门票"
+      },
+      {
+        "id": "0002",
+        "imgUrl": "http://img1.qunarzz.com/piao/fusion/1803/20/831d62d2e1c7be02.png",
+        "desc": "户部巷"
+      },
+      {
+        "id": "0003",
+        "imgUrl": "http://img1.qunarzz.com/piao/fusion/1804/ff/fdf170ee89594b02.png",
+        "desc": "武汉必游"
+      },
+      {
+        "id": "0004",
+        "imgUrl": "http://mp-piao-admincp.qunarzz.com/mp_piao_admin_mp_piao_admin/admin/20193/a40ee278d67000f2a29d2e20f6a029b3.png",
+        "desc": "自然风光"
+      },
+      {
+        "id": "0005",
+        "imgUrl": "http://img1.qunarzz.com/piao/fusion/1803/e3/67df61427c8e1302.png",
+        "desc": "演出"
+      },
+      {
+        "id": "0006",
+        "imgUrl": "http://img1.qunarzz.com/piao/fusion/1803/fa/2548667cb6e902.png",
+        "desc": "动植物园"
+      },
+      {
+        "id": "0007",
+        "imgUrl": "http://img1.qunarzz.com/piao/fusion/1803/b8/c5dcdb58deec2402.png",
+        "desc": "三峡风光"
+      },
+      {
+        "id": "0008",
+        "imgUrl": "http://img1.qunarzz.com/piao/fusion/1803/b1/528a9e80403b8c02.png",
+        "desc": "武汉欢乐谷"
+      },
+      {
+        "id": "0009",
+        "imgUrl": "http://img1.qunarzz.com/piao/fusion/1803/50/26ffa31b56646402.png",
+        "desc": "极地海洋"
+      }
+    ],
+    "recommendList": [
+      {
+      "id": "001",
+      "imgUrl": "http://img1.qunarzz.com/sight/p0/1603/b1/b1da46b5326eb99e90.water.jpg_200x200_2f0a2f3f.jpg",
+      "title": "武汉欢乐谷",
+      "desc": "来试试中国最高的弹射过山车吧~"
+      },
+      {
+        "id": "002",
+        "imgUrl": "http://img1.qunarzz.com/sight/p0/1501/10/1012e4a2c398409c.water.jpg_200x200_366b12f8.jpg",
+        "title": "云雾山",
+        "desc": "来看漂亮的杜鹃花~"
+      },
+      {
+        "id": "003",
+        "imgUrl": "http://img1.qunarzz.com/sight/p0/201405/27/11a29c646d897af77648bc3d98949107.jpg_200x200_0b6014b8.jpg",
+        "title": "武汉九峰山森林动物园",
+        "desc": "与动物亲近，尽享自然风光秀色"
+      }
+    ],
+    "weekendList": [
+      {
+      "id": "001",
+      "imgUrl": "http://img1.qunarzz.com/sight/source/1509/84/96e0a5830d7c99.jpg_r_640x214_ee164725.jpg",
+      "title": "江城山水",
+      "desc": "北枕巍巍大别山，南瀕浩浩长江水，江城内外，还隐藏的诸多山水。"
+    },
+      {
+        "id": "002",
+        "imgUrl": "http://img1.qunarzz.com/sight/source/1505/d5/abe8a48a6ef8bf.jpg_r_640x214_7c41cc81.jpg",
+        "title": "武汉必打卡",
+        "desc": "到武汉感受神奇的热干面之都。"
+      },
+      {
+        "id": "003",
+        "imgUrl": "http://img1.qunarzz.com/sight/source/1811/6d/5afbf529076ef6.jpg_r_640x214_7414b151.jpg",
+        "title": "三峡人家",
+        "desc": "感受长江的水三峡的情怀，自古至今，无数骚人墨客浓墨重彩的描绘三峡，赶紧领略三峡的壮美吧！"
+      }
+    ]
+  }
+}
