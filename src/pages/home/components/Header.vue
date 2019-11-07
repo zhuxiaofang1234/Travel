@@ -14,10 +14,11 @@
 </template>
 
 <script>
+import {mapState} from 'vuex'
 export default {
   name: 'Header',
-  props: {
-    city: String
+  computed: {
+    ...mapState(['city'])
   }
 }
 </script>
@@ -49,7 +50,8 @@ export default {
       .search-icon
         padding-right:.1rem
     .header-right
-      width:1.24rem
+      min-width:1.04rem
+      padding:0 .1rem
       float:right
       font-size:0
       text-align:center
